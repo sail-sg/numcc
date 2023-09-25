@@ -1,0 +1,12 @@
+*.pt
+*.pyc
+*.html
+*.pth
+*.txt
+experiments
+extensions
+*.ply
+*.png
+dataset_cache
+__pycache__
+*/__pycache__
