@@ -109,10 +109,10 @@ This codebase is mainly inherited from Meta Platforms' [MCC](https://github.com/
 If you find our code or paper useful, please consider citing us:
 
 ```bibtex
-@article{lionar2023nu,
+@inproceedings{lionar2023nu,
   title={NU-MCC: Multiview Compressive Coding with Neighborhood Decoder and Repulsive UDF},
   author={Lionar, Stefan and Xu, Xiangyu and Lin, Min and Lee, Gim Hee},
-  journal={arXiv preprint arXiv:2307.09112},
+  booktitle={Advances in neural information processing systems},
   year={2023}
 }
 ```
